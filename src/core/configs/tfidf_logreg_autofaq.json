@@ -3,7 +3,7 @@
     "class_name": "faq_reader",
     "x_col_name": "Question",
     "y_col_name": "Answer",
-    "data_path": "src/core/data/dataset_vsu_qa.csv"
+    "data_path": "src/core/data/dataset_vsu_qa (1).csv"
   },
   "dataset_iterator": {
     "class_name": "basic_classification_iterator",
